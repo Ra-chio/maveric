@@ -7,7 +7,7 @@ export default function Header() {
             <Container>
                 <nav className="navbar navbar-expand-md sticky-top">
                     <div className="container-fluid px-5 py-1 ">
-                        <a href="/login" className="navbar-brand">
+                        <a href="#!" className="navbar-brand">
                             <img
                                 src="https://cdn-fcich.nitrocdn.com/ZguJicRwSUMwxXTngUutFlvSuzRwiSdB/assets/static/optimized/rev-0438459/wp-content/uploads/2021/08/maveric-logo-updated.png"
                                 alt="Logo"
