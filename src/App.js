@@ -7,7 +7,6 @@ import "./styles.css";
 export default function App() {
     return (
         <Routes>
-            <Route path="/maveric" element={<Navigate to="/login" />} />
             <Route path="/" element={<Navigate to="/login" />} />
             <Route path="/login" element={<Login />} />
             <Route path="/employee-directory" element={<EmpDirectory />} />
