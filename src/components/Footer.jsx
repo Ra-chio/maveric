@@ -6,7 +6,7 @@ export default function Footer() {
             <div className="box sticky-bottom px-5">
                 <footer className="py-3 mx-5">
                     <div className="container-fluid">
-                        <a href="/login">
+                        <a href="#!">
                             <img
                                 src="https://cdn-fcich.nitrocdn.com/ZguJicRwSUMwxXTngUutFlvSuzRwiSdB/assets/static/optimized/rev-0438459/wp-content/uploads/2021/08/maveric-logo-white.png"
                                 alt="logo"
