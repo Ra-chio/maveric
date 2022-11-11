@@ -1,3 +1,23 @@
+Credentials-
+
+username1, password1 
+
+Data-
+empinfo.json
+
+Components-
+1] Header
+2] Footer
+3] Login
+4] EmpDirectory
+5] EmpCard
+6] EmpInfo
+7] EmpDetails
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
