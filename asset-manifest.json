@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maveric/static/css/main.59cfd0e7.css",
-    "main.js": "/maveric/static/js/main.8486c240.js",
+    "main.js": "/maveric/static/js/main.e9f527c7.js",
     "static/js/787.c7e19f62.chunk.js": "/maveric/static/js/787.c7e19f62.chunk.js",
     "index.html": "/maveric/index.html",
     "main.59cfd0e7.css.map": "/maveric/static/css/main.59cfd0e7.css.map",
-    "main.8486c240.js.map": "/maveric/static/js/main.8486c240.js.map",
+    "main.e9f527c7.js.map": "/maveric/static/js/main.e9f527c7.js.map",
     "787.c7e19f62.chunk.js.map": "/maveric/static/js/787.c7e19f62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59cfd0e7.css",
-    "static/js/main.8486c240.js"
+    "static/js/main.e9f527c7.js"
   ]
 }
