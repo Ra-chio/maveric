@@ -78,7 +78,7 @@ export default function EmpDirectory() {
                                 </li>
                                 <li className="page-item">
                                     <a
-                                        href="/employee-directory"
+                                        href="#!"
                                         className="page-link active"
                                     >
                                         1
